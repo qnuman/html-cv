@@ -1,1 +1,1 @@
-# my-cv-project
+# single-page-html-cv
