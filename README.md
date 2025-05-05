@@ -3,8 +3,8 @@ This repository contains my personal CV built as a single-page website using sem
 
 ## 🔗 Live Site
 
-View the live site here:  
-[Project Live URL](https://qnuman.github.io/single-page-html-cv)
+## project URL
+  [Project Live URL](https://qnuman.github.io/single-page-html-cv)
 
 
 ## 📝 Project Description
