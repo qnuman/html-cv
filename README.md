@@ -1,10 +1,10 @@
-# html-cv
+# Single-Page-CV
 This repository contains my personal CV built as a single-page website using semantic HTML. 
 
 ## 🔗 Live Site
 
 View the live site here:  
-[https://qnuman.github.io/my-cv-project/](https://qnuman.github.io/my-cv-project/)
+[https://qnuman.github.io/my-cv-project/](https://qnuman.github.io/html-cv/)
 
 ## 📝 Project Description
 
