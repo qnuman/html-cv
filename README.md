@@ -1,1 +1,1 @@
-# cv-using-semantic-html
+# html-cv
